@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8194bb07-a522-4531-b3af-58f3a8503b76" name="Changes" comment="Why does this not work?">
+    <list default="true" id="8194bb07-a522-4531-b3af-58f3a8503b76" name="Changes" comment="I reconnected">
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,8 @@
     <MESSAGE value="THis is a commit in July 2022" />
     <MESSAGE value="THis is a commit in July 2022 again" />
     <MESSAGE value="Why does this not work?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Why does this not work?" />
+    <MESSAGE value="I reconnected" />
+    <option name="LAST_COMMIT_MESSAGE" value="I reconnected" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
